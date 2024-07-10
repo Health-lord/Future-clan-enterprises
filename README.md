@@ -6,7 +6,11 @@ A recent project with Future Clan Enterprises, a leading financial institution. 
 *Introduction:*
 As a data analyst, I'm excited to share my findings from a recent project with Future Clan Enterprises, a leading financial institution. Our goal was to segment student loan borrowers and analyze investment patterns to inform risk management strategies and investment decisions.
 
-## *Tools used*
+## *Tools used* 
+- Ms. Excel was used to collate the dataset: [**Excel**](https://www.microsoft.com/en-us/microsoft-365/excel)
+- Power BI was used for data cleaning, transforming and visualization: [**Power BI**](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+- Google query for data analysis: [**Goggle sheet**](https://docs.google.com/spreadsheets/d/11MoVlSxmFd1EUiEVzB6q9PzmzWZ7HouWUlskt1FLj8A/edit?gid=0#gid=0)
+
 
 
 *Key Findings:*
