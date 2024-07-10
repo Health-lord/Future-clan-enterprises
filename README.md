@@ -13,7 +13,7 @@ As a data analyst, I'm excited to share my findings from a recent project with F
 
 
 
-*Key Findings:*
+### *Key Findings:*
 
 - *Gender:* Male borrowers dominate the loan market, accounting for the majority of loans.
 
@@ -25,6 +25,8 @@ As a data analyst, I'm excited to share my findings from a recent project with F
 
 - *Age:* 2/3 of the students are between 26 and 35, with 45 students under 25 years old.
 
+  
+
 ## *Recommendations for Future Clan Enterprises:*
 
 1. *Targeted Marketing:* Develop tailored loan products and marketing campaigns targeting self-employed individuals in the southwestern region.
@@ -35,5 +37,5 @@ As a data analyst, I'm excited to share my findings from a recent project with F
 
 4. *Financial Literacy:* Collaborate with educational institutions to provide financial literacy programs, empowering students to make informed financial decisions.
 
-*Conclusion:*
+### *Conclusion:*
 By leveraging data analysis, Future Clan Enterprises can optimize their loan products, risk management strategies, and investment offerings to better serve the student market. I'm eager to continue exploring data-driven insights to drive business growth and informed decision-making.
