@@ -25,7 +25,7 @@ As a data analyst, I'm excited to share my findings from a recent project with F
 
 - *Age:* 2/3 of the students are between 26 and 35, with 45 students under 25 years old.
 
-  
+  ![](futureclanent1.png)
 
 ## *Recommendations for Future Clan Enterprises:*
 
